@@ -108,6 +108,14 @@
       "groups": {
         "no group": "/proxy/api/mangadex/chapter/f56d8b3d-27ce-4f81-b8a6-359935dc7a69"
       }
+    },
+    "13": {
+      "title": "13",
+      "volume": "",
+      "last_updated": "1635870103",
+      "groups": {
+        "no group": "/proxy/api/mangadex/chapter/ed5abcba-9144-4f6e-b3cd-bcc3cd852827"
+      }
     }
   }
 }
