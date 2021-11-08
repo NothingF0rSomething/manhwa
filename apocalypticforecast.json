@@ -116,6 +116,38 @@
       "groups": {
         "no group": "/proxy/api/mangadex/chapter/ed5abcba-9144-4f6e-b3cd-bcc3cd852827"
       }
+    },
+    "14": {
+      "title": "14",
+      "volume": "",
+      "last_updated": "1636349318",
+      "groups": {
+        "no group": "/proxy/api/mangadex/chapter/c7730a58-bbf4-4f49-9467-ec911a4bad0a"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1636349335",
+      "groups": {
+        "no group": "/proxy/api/mangadex/chapter/21c8de4d-a13d-4fed-86f3-76e8e7c4ef64"
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "",
+      "last_updated": "1636349362",
+      "groups": {
+        "no group": "/proxy/api/mangadex/chapter/2a8e3f7c-e069-4fa2-8095-432c63d74e31"
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1636349373",
+      "groups": {
+        "no group": "/proxy/api/mangadex/chapter/35dada34-f747-4fbc-a2ff-d009efbdd79c"
+      }
     }
   }
 }
